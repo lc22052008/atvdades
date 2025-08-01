@@ -1,0 +1,25 @@
+bodi {
+    background: cornflowerblue;
+    font: normal 15pt Arial;
+
+}
+
+hader {
+    color: white;
+    text-align: center;
+}
+
+cection {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.329);
+}
+
+foter {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
